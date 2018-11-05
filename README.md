@@ -1,5 +1,21 @@
-# stepByStep
 ## jvm
+  1、jvm内存结构
+  2、jvm的内存操作
+  3、jvm的垃圾清理算法
+  4、jvm的volatile
+  5、happen-before原则
+  6、jvm的8个内存操作
+  7、jvm中的锁
+      a、无锁
+      b、偏心锁
+      b、轻量级锁
+         i:公平锁
+         ii:非公平锁
+      c、重量级锁
+## 设计
+  1、6个设计原则
+  2、23种设计模式
+  
 ## mq
   ### rocketmq
   ### rabitmq
